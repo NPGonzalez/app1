@@ -21,7 +21,7 @@ class App  extends React.Component {
 
 
                  {React.createElement (
-                     'div',
+                     'button',
                      {className:'App'},
                      'React'
                  )}
